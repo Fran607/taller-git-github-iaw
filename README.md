@@ -24,9 +24,9 @@ Enlaces a la página web del [IES Celia Viñas][1] y a [GitHub][2].
 [1]: https://iescelia.org
 [2]: https://github.com
 
-![](https://i.pinimg.com/736x/e8/c9/27/e8c927b7fe24f374cac50f18153bb212.jpg)
+![](https://tse2.mm.bing.net/th/id/OIP.QJ-gvkCtrdd6YO9XbTdqrQHaFj?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
-![](screenshots/e8c927b7fe24f374cac50f18153bb212.jpg)
+![](screenshots/Senderismo-almeria2.jpg)
 
 # Lista desordenada
 
@@ -52,3 +52,6 @@ Párrafo 1.
 <!-- Este texto es un comentario y no será renderizado -->
 
 Párrafo 2.
+
+
+:tada:
